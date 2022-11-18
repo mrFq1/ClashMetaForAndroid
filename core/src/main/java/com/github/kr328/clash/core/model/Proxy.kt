@@ -31,6 +31,7 @@ data class Proxy(
         Hysteria(false),
         WireGuard(false),
 
+
         Relay(true),
         Selector(true),
         Fallback(true),
