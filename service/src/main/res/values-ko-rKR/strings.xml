@@ -1,5 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="PluralsCandidate">
-    <!-- from https://github.com/shadowsocks/shadowsocks-android/blob/master/core/src/main/res/values/strings.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
     <string name="clash_service_status_channel">Clash 상태</string>
     <string name="profile_service_status">구성 파일 서비스 상태</string>
     <string name="profile_process_status">구성 파일 처리 상태</string>
